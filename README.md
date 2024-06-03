@@ -9,4 +9,4 @@ The following layers should be implemented (and visible as package):
     service - implementing the use cases of the application
     presentation - all classes required to provide interaction with the application
 
-Don't forget to test your implementation!
+Don't forget to test your implementation and use maven!
